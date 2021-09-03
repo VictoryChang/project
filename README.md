@@ -1,0 +1,1 @@
+1. Create a credentials file at ~/.project/credentials
