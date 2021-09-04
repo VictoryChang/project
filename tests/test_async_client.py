@@ -1,4 +1,4 @@
-from repositories.async_client import AsyncReqResClient
+from adapters.async_client import AsyncReqResClient
 
 
 def test_get_requests():

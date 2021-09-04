@@ -1,6 +1,6 @@
 import pytest
 
-from repositories.client import ReqresClient
+from adapters.client import ReqresClient
 
 
 @pytest.fixture()
